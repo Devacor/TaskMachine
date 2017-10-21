@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTest", "TaskTest.csproj", "{8035D9FD-561A-FA98-7A5E-AB6EC7B79A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTest.Editor", "TaskTest.Editor.csproj", "{C32AD62A-9B98-DD64-65CB-6CCFAD6CF593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8035D9FD-561A-FA98-7A5E-AB6EC7B79A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8035D9FD-561A-FA98-7A5E-AB6EC7B79A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8035D9FD-561A-FA98-7A5E-AB6EC7B79A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8035D9FD-561A-FA98-7A5E-AB6EC7B79A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32AD62A-9B98-DD64-65CB-6CCFAD6CF593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32AD62A-9B98-DD64-65CB-6CCFAD6CF593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32AD62A-9B98-DD64-65CB-6CCFAD6CF593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32AD62A-9B98-DD64-65CB-6CCFAD6CF593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
