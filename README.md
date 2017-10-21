@@ -210,6 +210,6 @@ So, if you wanted to access each one, you need to call .last() which returns the
 
 In order to facilitate reusable concepts you can derive from ActionBase to eliminate some of the callback boilerplate and offer your tasks more structure. Where the examples above all have the lambda logic embedded, passing in a premade class can more succinctly communicate your intent.
 
-Take a look at TaskActions.cs for some examples of premade behaviours and feel free to invent your own! Making use of them is as easy as calling task.then(BlockForSeconds(1.25f)); for example!
+Take a look at TaskActions.cs for some examples of premade behaviours and feel free to invent your own! Making use of them is as easy as calling task.then(new BlockForSeconds(1.25f)); for example!
 
 And that's it!
